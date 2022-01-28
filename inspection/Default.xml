@@ -24,6 +24,8 @@
         <option value="object.start_experiment" />
         <option value="object.get_experiment" />
         <option value="object.complete_experiment" />
+        <option value="object.run" />
+        <option value="object.get_run" />
       </list>
     </option>
   </inspection_tool>

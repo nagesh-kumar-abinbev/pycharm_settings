@@ -20,6 +20,10 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="str.experiment_id" />
+        <option value="object.get_active_run" />
+        <option value="object.start_experiment" />
+        <option value="object.get_experiment" />
+        <option value="object.complete_experiment" />
       </list>
     </option>
   </inspection_tool>
